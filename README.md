@@ -1,2 +1,2 @@
 # netflix-clone-react
-url: https://github.com/4tornike/netflix-clone-react.git
+url: https://netflix-clone-f49ee.firebaseapp.com/
